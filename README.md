@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @bsimmons1
+- 👀 I’m interested in Artificial intelligence and Netowrking applications
+- 🌱 I’m currently learning Networking, Java, and C
+- 💞️ I’m looking to collaborate on projects including security and Networking
+- 📫 How to reach me simmons.b2277@gmail.com
